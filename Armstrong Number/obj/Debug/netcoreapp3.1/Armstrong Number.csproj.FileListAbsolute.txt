@@ -1,0 +1,14 @@
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\bin\Debug\netcoreapp3.1\Armstrong Number.exe
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\bin\Debug\netcoreapp3.1\Armstrong Number.deps.json
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\bin\Debug\netcoreapp3.1\Armstrong Number.runtimeconfig.json
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\bin\Debug\netcoreapp3.1\Armstrong Number.runtimeconfig.dev.json
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\bin\Debug\netcoreapp3.1\Armstrong Number.dll
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\bin\Debug\netcoreapp3.1\Armstrong Number.pdb
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\obj\Debug\netcoreapp3.1\Armstrong Number.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\obj\Debug\netcoreapp3.1\Armstrong Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\obj\Debug\netcoreapp3.1\Armstrong Number.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\obj\Debug\netcoreapp3.1\Armstrong Number.AssemblyInfo.cs
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\obj\Debug\netcoreapp3.1\Armstrong Number.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\obj\Debug\netcoreapp3.1\Armstrong Number.dll
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\obj\Debug\netcoreapp3.1\Armstrong Number.pdb
+C:\Users\julio\Desktop\numero narcisista\Armstrong Number\Armstrong Number\obj\Debug\netcoreapp3.1\Armstrong Number.genruntimeconfig.cache
